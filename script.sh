@@ -103,7 +103,8 @@ executar_hometemp_para_home(){
 # Função para ingressar no domínio
 
 ingressar_dominio(){
-    sed -e s/' sss'//g -i /etc/nsswitch.conf-teste
+    cp /etc/nsswitch.conf /etc/nsswitch.conf-bkp
+    sed -e s/' sss'//g -i /etc/nsswitch.conf
     systemctl stop sssd && systemctl disable sssd
     systemctl start winbind && systemctl enable winbind
 
