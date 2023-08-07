@@ -4,7 +4,7 @@
 
 Script em Shell Bash para migrações de perfil de usuário Debian e Ubuntu
 
-## Getting Started
+## Começando
 
 ### Dependências
 
@@ -28,8 +28,8 @@ Para qualquer dúvida contacte o time Domo Soluções
 
 ## Autores
 
-Alyson Costa de Souza, alyson@domosolucoes.com.br
-Bruno Gomes, bruno@domosolucoes.com.br
+ex. Alyson Costa de Souza, alyson@domosolucoes.com.br
+ex. Bruno Gomes, bruno@domosolucoes.com.br
 
 ## Histórico da versão
 
