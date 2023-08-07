@@ -1,4 +1,4 @@
-# Cresol - Migração de pergil de usuários
+# Cresol - Migração de perfil de usuários
 
 ## Descrição
 
