@@ -28,10 +28,10 @@ Para qualquer dúvida contacte o time Domo Soluções
 
 ## Autores
 
-ex. Alyson Costa de Souza, alyson@domosolucoes.com.br
-ex. Bruno Gomes, bruno@domosolucoes.com.br
+Alyson Costa de Souza, alyson@domosolucoes.com.br
+Bruno Gomes, bruno@domosolucoes.com.br
 
 ## Histórico da versão
 
 * 0.1
-    * Initial Release
+    * Release inicial
