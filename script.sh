@@ -204,7 +204,7 @@ menu2() {
 }
 
 # Inicialização do menu
-menu1
+menu2
 
 ###
 #
